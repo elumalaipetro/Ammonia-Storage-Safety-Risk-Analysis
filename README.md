@@ -1,7 +1,5 @@
 # Ammonia-Storage-Safety-Risk-Analysis
 Comprehensive safety and risk analysis of an ammonia storage system using FMEA, Risk Assessment, Risk Matrix, and mitigation strategies to improve process safety and operational reliability.
-# Ammonia Storage Safety Risk Analysis
-
 ## Project Overview
 This project presents a comprehensive safety and risk analysis of an ammonia storage system used in chemical and fertilizer industries. The study focuses on identifying potential hazards, evaluating associated risks, and recommending mitigation measures to improve process safety.
 
